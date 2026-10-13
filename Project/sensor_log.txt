@@ -1,0 +1,16 @@
+Sensor Readings: 
+ 34.00
+
+Minimum: 34.00
+Maximum: 36.00
+Average: 35.00
+ 35.00
+
+Minimum: 34.00
+Maximum: 36.00
+Average: 35.00
+ 36.00
+
+Minimum: 34.00
+Maximum: 36.00
+Average: 35.00
